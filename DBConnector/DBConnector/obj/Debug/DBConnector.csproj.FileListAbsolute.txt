@@ -1,0 +1,12 @@
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\bin\Debug\DBConnector.exe.config
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\bin\Debug\DBConnector.exe
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\bin\Debug\DBConnector.pdb
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\obj\Debug\MainWindow.baml
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\obj\Debug\MainWindow.g.cs
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\obj\Debug\App.g.cs
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\obj\Debug\DBConnector_MarkupCompile.cache
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\obj\Debug\DBConnector.g.resources
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\obj\Debug\DBConnector.Properties.Resources.resources
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\obj\Debug\DBConnector.csproj.GenerateResource.Cache
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\obj\Debug\DBConnector.exe
+C:\Users\NodyBajNydże\Desktop\DBConnector\DBConnector\obj\Debug\DBConnector.pdb
